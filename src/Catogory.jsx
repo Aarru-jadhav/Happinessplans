@@ -24,12 +24,12 @@ const Category = () => {
         
         <div className="lg:w-1/2 relative h-[400px] w-full flex items-center justify-center">
           <img
-            src="src/assets/adventure.avif"
+            src="/adventure.avif"
             alt="Adventure 1"
             className="absolute w-52 h-72 object-cover rounded-2xl border-4 border-white shadow-lg transform rotate-3"
           />
           <img
-            src="src/assets/adventure2.avif"
+            src="/adventure2.avif"
             alt="Adventure 2"
             className="absolute w-52 h-72 object-cover rounded-2xl border-4 border-white shadow-lg left-20 top-24 transform -rotate-3"
           />
@@ -51,12 +51,12 @@ const Category = () => {
         
         <div className="lg:w-1/2 relative h-[400px] w-full flex items-center justify-center">
           <img
-            src="src/assets/tour.avif"
+            src="/tour.avif"
             alt="Tour 1"
             className="absolute w-56 h-80 object-cover rounded-2xl border-4 border-white shadow-lg transform -rotate-6"
           />
           <img
-            src="src/assets/tour2.avif"
+            src="/tour2.avif"
             alt="Tour 2"
             className="absolute w-56 h-80 object-cover rounded-2xl border-4 border-white shadow-lg left-24 top-20 transform rotate-6"
           />

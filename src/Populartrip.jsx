@@ -8,14 +8,14 @@ const Populartrip = () => {
                 <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-6 overflow-x-auto">
 
                     <div className="rounded-lg overflow-hidden shadow-md">
-                        <img src="src/assets/Bali,indo.avif" alt="Bali" className="h-48 w-full object-cover" />
+                        <img src="/Bali,indo.avif" alt="Bali" className="h-48 w-full object-cover" />
                         <div className="p-4">
                             <h3 className="text-xl font-semibold">Bali, Indonesia</h3>
 
                         </div>
                     </div>
                     <div className="rounded-lg overflow-hidden shadow-md">
-                        <img src="src/assets/manali.webp" alt="manali" className="h-48 w-full object-cover" />
+                        <img src="/manali.webp" alt="manali" className="h-48 w-full object-cover" />
                         <div className="p-4">
                             <h3 className="text-xl font-semibold">Manali, Himachal Pradesh
                             </h3>
@@ -23,28 +23,28 @@ const Populartrip = () => {
                         </div>
                     </div>
                     <div className="rounded-lg overflow-hidden shadow-md">
-                        <img src="src/assets/canada.avif" alt="canada" className="h-48 w-full object-cover" />
+                        <img src="/canada.avif" alt="canada" className="h-48 w-full object-cover" />
                         <div className="p-4">
                             <h3 className="text-xl font-semibold">Canada</h3>
 
                         </div>
                     </div>
                     <div className="rounded-lg overflow-hidden shadow-md">
-                        <img src="src/assets/delhi.avif" alt="canada" className="h-48 w-full object-cover" />
+                        <img src="/delhi.avif" alt="canada" className="h-48 w-full object-cover" />
                         <div className="p-4">
                             <h3 className="text-xl font-semibold">delhi</h3>
 
                         </div>
                     </div>
                     <div className="rounded-lg overflow-hidden shadow-md">
-                        <img src="src/assets/thailand.avif" alt="canada" className="h-48 w-full object-cover" />
+                        <img src="/thailand.avif" alt="canada" className="h-48 w-full object-cover" />
                         <div className="p-4">
                             <h3 className="text-xl font-semibold">thailand</h3>
 
                         </div>
                     </div>
                     <div className="rounded-lg overflow-hidden shadow-md">
-                        <img src="src/assets/goa.avif" alt="canada" className="h-48 w-full object-cover" />
+                        <img src="/goa.avif" alt="canada" className="h-48 w-full object-cover" />
                         <div className="p-4">
                             <h3 className="text-xl font-semibold">Goa</h3>
 

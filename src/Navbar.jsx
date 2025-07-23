@@ -9,7 +9,7 @@ const Navbar = () => {
       <div>
         <img
           className="w-[140px] h-[79px] object-cover rounded-full"
-          src="/src/assets/file-removebg-preview.png"
+          src="/file-removebg-preview.png"
           alt="company logo"
         />
       </div>
